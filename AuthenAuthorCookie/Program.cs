@@ -1,7 +1,8 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
-
+var urls = Environment.GetEnvironmentVariable("ASPNETCORE_URLS");
+Console.WriteLine($"ASPNETCORE_URLS: {urls}");
 // Add services to the container.
 builder.Services.AddControllers();
 
@@ -42,6 +43,8 @@ builder.Services.AddAuthentication(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+
+app.UseStaticFiles();
 
 app.UseSwagger();
 app.UseSwaggerUI(c =>

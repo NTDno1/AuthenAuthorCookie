@@ -6,6 +6,11 @@ namespace AuthenAuthorCookie.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["Title"] = "Home Page Test";
+            return View();
+        }
+        public IActionResult UserPage()
+        {
             return View();
         }
     }
