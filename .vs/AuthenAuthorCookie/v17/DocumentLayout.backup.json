@@ -7,28 +7,36 @@
       "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\apicontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\apicontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\attributes\\sieuphamauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\attributes\\sieuphamauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\viewcontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\viewcontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\apicontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\apicontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\models\\requestmodels\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\models\\requestmodels\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\views\\layout\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,16 +47,20 @@
       "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\views\\home\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\views\\home\\userpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\views\\adminpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\views\\adminpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,10 +76,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.Publish\\targets\\PublishTargets\\Microsoft.NET.Sdk.Publish.FileSystem.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|c:\\users\\datnt1\\source\\repos\\authenauthorcookie\\authenauthorcookie\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213A384B-92DF-43E8-B1B8-3A2B936BE780}|AuthenAuthorCookie\\AuthenAuthorCookie.csproj|solutionrelative:authenauthorcookie\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,59 +89,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AuthenAuthorCookie\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T04:45:24.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
-              "RelativeToolTip": "AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "SieuphamAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Attributes\\SieuphamAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Attributes\\SieuphamAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Attributes\\SieuphamAuthorizeAttribute.cs",
+              "RelativeToolTip": "AuthenAuthorCookie\\Attributes\\SieuphamAuthorizeAttribute.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:24:43.546Z",
+              "WhenOpened": "2025-02-19T09:08:26.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
-              "RelativeToolTip": "AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:22:56.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T08:57:46.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "AdminPage.cs",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\AdminPage.cs",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\AdminPage.cs",
@@ -146,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\HomeController.cs",
@@ -159,15 +128,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AuthenAuthorCookie\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T07:12:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
+              "RelativeToolTip": "AuthenAuthorCookie\\Controllers\\ApiControllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:24:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
+              "RelativeToolTip": "AuthenAuthorCookie\\Controllers\\ViewControllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:22:56.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:12:11.281Z",
               "EditorCaption": ""
             },
             {
@@ -178,14 +186,63 @@
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Program.cs",
               "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Program.cs",
               "RelativeToolTip": "AuthenAuthorCookie\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T07:12:51.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "UserRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Models\\RequestModels\\UserRequestModel.cs",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Models\\RequestModels\\UserRequestModel.cs",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Models\\RequestModels\\UserRequestModel.cs",
+              "RelativeToolTip": "AuthenAuthorCookie\\Models\\RequestModels\\UserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:57:04.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_homeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
+              "RelativeToolTip": "AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T07:57:35.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthenAuthorCookie\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T08:57:46.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenAuthorCookie\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T04:45:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Views\\User\\Index.cshtml",
@@ -193,12 +250,11 @@
               "RelativeToolTip": "AuthenAuthorCookie\\Views\\User\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T03:23:09.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:23:09.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Microsoft.NET.Sdk.Publish.FileSystem.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.Publish\\targets\\PublishTargets\\Microsoft.NET.Sdk.Publish.FileSystem.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.Publish\\targets\\PublishTargets\\Microsoft.NET.Sdk.Publish.FileSystem.targets",
@@ -206,12 +262,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.Publish\\targets\\PublishTargets\\Microsoft.NET.Sdk.Publish.FileSystem.targets",
               "ViewState": "AgIAAD4AAAAAAAAAAAAjwEcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-02-08T02:31:16.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T02:31:16.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Dockerfile",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Dockerfile",
@@ -219,12 +274,11 @@
               "RelativeToolTip": "AuthenAuthorCookie\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-08T04:04:19.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T04:04:19.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "UserPage.cshtml",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Home\\UserPage.cshtml",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Views\\Home\\UserPage.cshtml",
@@ -232,25 +286,11 @@
               "RelativeToolTip": "AuthenAuthorCookie\\Views\\Home\\UserPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T07:46:37.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T07:46:37.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_homeLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
-              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
-              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
-              "RelativeToolTip": "AuthenAuthorCookie\\Views\\Layout\\_homeLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T07:57:35.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\.dockerignore",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\.dockerignore",
@@ -258,12 +298,11 @@
               "RelativeToolTip": "AuthenAuthorCookie\\.dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-08T04:25:10.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T04:25:10.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\WeatherForecast.cs",
@@ -271,12 +310,11 @@
               "RelativeToolTip": "AuthenAuthorCookie\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T04:26:12.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T04:26:12.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Views\\AdminPage\\Index.cshtml",
               "RelativeDocumentMoniker": "AuthenAuthorCookie\\Views\\AdminPage\\Index.cshtml",
@@ -284,21 +322,7 @@
               "RelativeToolTip": "AuthenAuthorCookie\\Views\\AdminPage\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T07:48:49.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\datnt1\\source\\repos\\AuthenAuthorCookie\\AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "AuthenAuthorCookie\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA0wB8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T07:12:11.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T07:48:49.884Z"
             }
           ]
         }
